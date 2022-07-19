@@ -1,0 +1,53 @@
+:::: Log File ::::
+
+
+[18/7/2022 -- 20:57]  Info task started
+[18/7/2022 -- 22:25]  restarted!
+[18/7/2022 -- 23:15]  Scripts ran on main.js
+[18/7/2022 -- 23:15]  restarted!
+[18/7/2022 -- 23:15]  restarted!
+[18/7/2022 -- 23:16]  Info task started
+[18/7/2022 -- 23:17]  Scripts ran on main.js
+[18/7/2022 -- 23:18]  Info task started
+[18/7/2022 -- 23:20]  restarted!
+[18/7/2022 -- 23:20]  restarted!
+[18/7/2022 -- 23:23]  restarted!
+[18/7/2022 -- 23:23]  restarted!
+[18/7/2022 -- 23:26]  restarted!
+[18/7/2022 -- 23:26]  restarted!
+[18/7/2022 -- 23:26]  restarted!
+[18/7/2022 -- 23:27]  Scripts ran on main.js
+[19/7/2022 -- 9:20]  Scripts ran on main.js
+[19/7/2022 -- 9:22]  Scripts ran on main.js
+[19/7/2022 -- 11:52]  Scripts ran on main.js
+[19/7/2022 -- 11:52]  Scripts ran on main.js
+[19/7/2022 -- 12:6]  restarted!
+[19/7/2022 -- 12:6]  restarted!
+[19/7/2022 -- 12:20]  restarted!
+[19/7/2022 -- 12:20]  restarted!
+[19/7/2022 -- 12:20]  Scripts ran on main.js
+[19/7/2022 -- 12:22]  restarted!
+[19/7/2022 -- 12:22]  restarted!
+[19/7/2022 -- 12:22]  Scripts ran on main.js
+[19/7/2022 -- 13:45]  Scripts ran on main.js
+[19/7/2022 -- 13:58]  restarted!
+[19/7/2022 -- 13:58]  restarted!
+[19/7/2022 -- 14:4]  restarted!
+[19/7/2022 -- 14:4]  restarted!
+[19/7/2022 -- 14:4]  restarted!
+[19/7/2022 -- 14:12]  restarted!
+[19/7/2022 -- 14:12]  restarted!
+[19/7/2022 -- 14:13]  restarted!
+[19/7/2022 -- 14:15]  restarted!
+[19/7/2022 -- 14:16]  restarted!
+[19/7/2022 -- 14:16]  restarted!
+[19/7/2022 -- 14:16]  restarted!
+[19/7/2022 -- 14:18]  restarted!
+[19/7/2022 -- 14:20]  Scripts ran on main.js
+[19/7/2022 -- 14:32]  Sass ran on files
+[19/7/2022 -- 14:36]  Scripts ran on main.js
+[19/7/2022 -- 14:37]  Sass ran on files
+[19/7/2022 -- 14:39]  Sass ran on files
+[19/7/2022 -- 14:41]  Scripts ran on main.js
+[19/7/2022 -- 15:40]  restarted!
+[19/7/2022 -- 15:40]  restarted!
